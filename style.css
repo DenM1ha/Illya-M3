@@ -38,36 +38,33 @@ h3{
     font-size: 30px;
     text-align: center;
 }
-
-ul{
-    list-style: url();
-}
+        
 main img{
-width: 160px;
-height: 143px;
-margin:15px;
+    width: 160px;
+    height: 143px;
+    margin:15px;
 }
+
 p{
     font-size: 20px;
-    
-   padding: 0px 20px;
-   text-align:center ;
-  
-  
+    padding: 0px 20px;
+    text-align:center ;
 }
-img{
-   
 
-   border: 2px double firebrick; 
+img{
+    border: 2px double firebrick; 
 }
+
 footer{
     background-color: #D04C4C;
- font-size: 30px;
- text-align: center;
- color: wheat;
-  padding-top:10px  ;
-   height:80px ;
+    font-size: 30px;
+    text-align: center;
+    color: wheat;
+    margin-top: 120px;
+    height: 100px;
+    padding-top: 4px;
 }
+
 .ror{
     text-align: center;
     margin-top:20px ;
